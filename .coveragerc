@@ -1,0 +1,3 @@
+[run]
+source = pyramid_practice_startar_jinja2
+omit = pyramid_practice_startar_jinja2/test*
